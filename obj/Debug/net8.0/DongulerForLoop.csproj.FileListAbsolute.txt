@@ -1,0 +1,14 @@
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\bin\Debug\net8.0\DongulerForLoop.exe
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\bin\Debug\net8.0\DongulerForLoop.deps.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\bin\Debug\net8.0\DongulerForLoop.runtimeconfig.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\bin\Debug\net8.0\DongulerForLoop.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\bin\Debug\net8.0\DongulerForLoop.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\DongulerForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\DongulerForLoop.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\DongulerForLoop.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\DongulerForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\DongulerForLoop.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\refint\DongulerForLoop.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\DongulerForLoop.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\DongulerForLoop.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\DongulerForLoop\obj\Debug\net8.0\ref\DongulerForLoop.dll
